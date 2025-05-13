@@ -1,0 +1,18 @@
+header{
+    height: 40px;
+    background: gold;
+    margin:0px 0px 10px;
+}
+
+nav{
+    height: 50px;
+    margin:0px 0px 10px;
+}
+
+.primer_nav{
+    background: blue;
+}
+.segundo_nav{
+    background: forestgreen;
+    
+}
