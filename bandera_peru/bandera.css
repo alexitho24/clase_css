@@ -1,0 +1,36 @@
+.principal{
+    height: 600px;
+    background:gold;
+    padding-top: 15px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.primer_ar{
+        height: 300px;
+    width: 250px;
+    background: red;
+    margin: 00px;
+    border: 1px dashed #000;
+
+}
+.segundo_ar{
+        height: 300px;
+    width: 250px;
+    background: white;
+    margin: 00px;
+    border: 1px dashed #000;
+       justify-content: center;
+    align-items: center;
+
+}
+
+.tercer_ar{
+
+        height: 300px;
+    width: 250px;
+    background: red;
+    margin: 00px;
+    border: 1px dashed #000;
+}
