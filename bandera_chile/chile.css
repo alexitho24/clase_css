@@ -27,11 +27,10 @@
 }
 
 .tercer_ar{
-  position: relative;
-  top: 320px; 
-  height: 250px;
-  width: 300px;
-  background: red;
-  margin: 0;
-  border: 1px dashed #000;
+
+        height: 250px;
+    width: 300px;
+    background: red;
+    margin: 00px;
+    border: 1px dashed #000;
 }
